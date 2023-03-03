@@ -1,0 +1,56 @@
+p {
+    margin: 0px;
+    font-size: 100%;
+}
+
+
+/* Title Section */
+
+#title {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: aquamarine;
+}
+
+.profile-img {
+    width: 40%;
+    height: 100%;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Education section */
+
+#education {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+
+/* Skills section */
+
+#skills {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: aquamarine;
+}
+
+
+
+/* Projects section */
+
+#projects {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+/* Contact section */
+
+#contacts {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: aquamarine;
+}
